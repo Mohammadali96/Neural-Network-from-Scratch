@@ -118,7 +118,7 @@ def feedforward(input_net):
 
 To optimize the weights, we use Stochastic Gradient Decent (SGD): 
 
-<img src="SGD.png" width = "700" height = "340">
+<img src="SGD.png" width = "700" height = "240">
 
 Where E is the loss function (e.g. mean square error) and 𝜂 is the learning rate.
 
@@ -182,7 +182,7 @@ for i in range(epochs):
 ```
 
 #### Second Layer Updating
-<img src="SecondLayer.png" width = "600" height = "240">
+<img src="SecondLayer.png" width = "500" height = "140">
 
 
 ```python
